@@ -1,7 +1,8 @@
 body {
     font-size: 67.5%;
     font-family: Tahoma, Geneva, sans-serif;
-    background: #white url("img/Nodes.jpg") center 0px;
+    background-image: url("img/Nodes.jpg");
+
 
     opacity: 0.85;
     text-shadow: #39150C;
